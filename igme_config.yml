@@ -1,0 +1,16 @@
+title: Lagrangian Dynamics 2D
+author:
+  name: Gabriel Ortega
+  email:
+  github:
+description: This is a simulation of a pendulum swinging in 2D using Langragian equations of motion.
+language: C++
+image:
+  icon: https://cloud.githubusercontent.com/assets/10502938/13506660/28be0300-e14d-11e5-90e3-b194f14e52bd.PNG
+  banner: https://cloud.githubusercontent.com/assets/10502938/13506660/28be0300-e14d-11e5-90e3-b194f14e52bd.PNG
+tags:
+  - C++
+  - Physics
+  - Lagrangian Dynamics
+extra_resources:
+connections:
